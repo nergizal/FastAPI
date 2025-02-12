@@ -4,7 +4,7 @@ app= FastAPI()
 
 courses_db=[
     {'id':1,'instructor': 'Nergiz', 'tittle': 'Python', 'category': 'Development' },
-    {'id':2,'instructor': 'Kemal', 'tittle': 'Flutter', 'category': 'Development' },
+    {'id':2,'instructor': 'Ayşe', 'tittle': 'Flutter', 'category': 'Development' },
     {'id':3,'instructor': 'Atil', 'tittle': 'Kubernetes', 'category': 'Devops' },
 ]
 
